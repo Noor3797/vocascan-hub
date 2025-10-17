@@ -10,3 +10,4 @@ Notes and usage details for vocascan-hub.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
